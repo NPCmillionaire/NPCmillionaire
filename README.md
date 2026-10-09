@@ -20,9 +20,6 @@ QA / test-automation engineer and indie builder. I break things for a living, th
 
 `Rust` · `Python` · `JavaScript` · `HTML/CSS` · `Linux (Arch)` · `Raspberry Pi` · `CI/CD` · `test automation`
 
-## Currently
+## Current interests:
 
-- 🔐 Going deeper on cybersecurity fundamentals with a home lab
-- 🎚️ Building out more producer tools
-
-⭐ If something here is useful, a star or a follow helps a lot. Issues and PRs welcome.
+cinema, complexity, currencies, dance music, e-cash, encryption, feminism, fiction, images, inorganic life, jungle, markets, matrices, microbiotics, multimedia, networks, numbers, perception, replication, sex, simulation, sound, telecommunications, textiles, texts, trade, video, virtuality, war
