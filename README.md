@@ -26,6 +26,14 @@ Now I break everything else, then build the tool that should have existed in
 the first place, usually because the original was a 2017 Python script held
 together by a `requirements.txt` and prayer.
 
+## > the plot twist
+
+A few years back I was charged with aggravated identity theft, wire fraud and
+bank fraud. It went to a state trial, and I was acquitted. Ten out of ten,
+would not recommend. That chapter's closed: I'm living a good life now, and I
+use everything I learned the hard way to build things that make people harder
+to rob, not easier.
+
 ## > game dev
 
 - 🎮 QA on **Fortnite** (Epic Games) and **The Division 2** (Ubisoft / Red Storm). If you hit a bug in either, statistically I filed it and someone said "won't fix."
