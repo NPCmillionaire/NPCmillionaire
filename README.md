@@ -3,12 +3,6 @@
 ```text
 NPC-BIOS v4.04 · (c) Legitbiz Megatrends · press DEL to file a bug
 
-    _   ______  ______          _ _____                   _
-   / | / / __ \/ ____/___ ___  (_) / (_)___  ____  ____ _(_)_______
-  /  |/ / /_/ / /   / __ `__ \/ / / / / __ \/ __ \/ __ `/ / ___/ _ \
- / /|  / ____/ /___/ / / / / / / / / / /_/ / / / / /_/ / / /  /  __/
-/_/ |_/_/    \____/_/ /_/ /_/_/_/_/_/\____/_/ /_/\__,_/_/_/   \___/
-
 Detecting hardware ........ 1x human · 2x raspberry pi · 1x arch box (btw)
 Memory test ............... 640K of trust ... 0K remaining
 Loading fortnite.qa ....... [  OK  ]  bugs filed: lots · fixed: "won't fix"
