@@ -1,20 +1,6 @@
 <div align="center">
 
-```text
-NPC-BIOS v4.04 · (c) Legitbiz Megatrends · press DEL to file a bug
-
-Detecting hardware ........ 1x human · 2x raspberry pi · 1x arch box (btw)
-Memory test ............... 640K of trust ... 0K remaining
-Loading fortnite.qa ....... [  OK  ]  bugs filed: lots · fixed: "won't fix"
-Loading division2.qa ...... [  OK  ]  agents lost to my repro steps: many
-Porting python2 relics .... [  OK  ]  now in rust · venvs harmed: 0
-Mounting /dev/opsec ....... [  OK  ]  making people harder to rob
-Starting side_quests ...... [ BUSY ]  see below ↓
-
-WARNING: this NPC has achieved sentience and refuses to stay on its path.
-
-cam@legitbiz:~$ █
-```
+<img src="terminal.svg" alt="cam@legitbiz terminal: ./npc --boot" width="700">
 
 </div>
 
