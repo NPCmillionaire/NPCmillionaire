@@ -1,18 +1,25 @@
 <div align="center">
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│  $ ./npcmillionaire --whoami                                 │
-│                                                              │
-│  ███╗   ██╗██████╗  ██████╗    ┌─ breaker of things ──────┐  │
-│  ████╗  ██║██╔══██╗██╔════╝    │  qa · secops · builder   │  │
-│  ██╔██╗ ██║██████╔╝██║         │  ex-epic · ex-ubisoft    │  │
-│  ██║╚██╗██║██╔═══╝ ██║         │  arch, btw               │  │
-│  ██║ ╚████║██║     ╚██████╗    └──────────────────────────┘  │
-│  ╚═╝  ╚═══╝╚═╝      ╚═════╝   m i l l i o n a i r e          │
-│                                                              │
-│  [ok] loaded 6 tools  [warn] 0 bugs marked won't-fix today   │
-└──────────────────────────────────────────────────────────────┘
+NPC-BIOS v4.04 · (c) Legitbiz Megatrends · press DEL to file a bug
+
+    _   ______  ______          _ _____                   _
+   / | / / __ \/ ____/___ ___  (_) / (_)___  ____  ____ _(_)_______
+  /  |/ / /_/ / /   / __ `__ \/ / / / / __ \/ __ \/ __ `/ / ___/ _ \
+ / /|  / ____/ /___/ / / / / / / / / / /_/ / / / / /_/ / / /  /  __/
+/_/ |_/_/    \____/_/ /_/ /_/_/_/_/_/\____/_/ /_/\__,_/_/_/   \___/
+
+Detecting hardware ........ 1x human · 2x raspberry pi · 1x arch box (btw)
+Memory test ............... 640K of trust ... 0K remaining
+Loading fortnite.qa ....... [  OK  ]  bugs filed: lots · fixed: "won't fix"
+Loading division2.qa ...... [  OK  ]  agents lost to my repro steps: many
+Porting python2 relics .... [  OK  ]  now in rust · venvs harmed: 0
+Mounting /dev/opsec ....... [  OK  ]  making people harder to rob
+Starting side_quests ...... [ BUSY ]  see below ↓
+
+WARNING: this NPC has achieved sentience and refuses to stay on its path.
+
+cam@legitbiz:~$ █
 ```
 
 </div>
