@@ -23,17 +23,7 @@ to rob, not easier.
 - 🧪 Today: test automation, device simulators, and CI/CD triage, aka teaching computers to be disappointed on my behalf.
 - 🛠️ Run [**Cloudsculpting Labs**](https://github.com/cloudsculptinglabs): web apps, quant-finance tools, and Raspberry Pi gadgets that work great until they're plugged in.
 
-## > security engineering
 
-Rewriting the classics in languages that weren't abandoned, and building the stuff I couldn't find.
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**sherlock-rs**](https://github.com/NPCmillionaire/sherlock-rs) | Hunt usernames across social networks. sherlock, but it doesn't need a venv to feel alive | Rust |
-| [**usbkill-rs**](https://github.com/NPCmillionaire/usbkill-rs) | Anti-forensic USB kill switch. Plug in the wrong thing, lose the machine | Rust |
-| [**enum4linux-go**](https://github.com/NPCmillionaire/enum4linux-go) | SMB / AD enumeration for Windows & Samba hosts, rewritten in Go | Go |
-| [**bettertui**](https://github.com/NPCmillionaire/bettertui) | A friendlier terminal UI for bettercap, driven over its REST API | Python |
-| [**cryptopastebin**](https://github.com/NPCmillionaire/cryptopastebin) | Zero-knowledge pastebin with post-quantum hybrid encryption. The server only ever sees ciphertext | TypeScript |
 | [**txt**](https://github.com/NPCmillionaire/txt) | Plain-text notes, starting with 222 OSINT tools that mostly work. Trust nothing | txt |
 
 <sub>also: public-records CLIs ([capitol-cli](https://github.com/NPCmillionaire/capitol-cli), [recap-cli](https://github.com/NPCmillionaire/recap-cli), [OpenCorporatesCLI](https://github.com/NPCmillionaire/OpenCorporatesCLI)) · SP-404 tools ([sp404-app](https://github.com/NPCmillionaire/sp404-app)) · Polymarket weather whales ([wxwhales](https://github.com/NPCmillionaire/wxwhales))</sub>
